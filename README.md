@@ -5,7 +5,7 @@ In this project, we explore customer behavior patterns within an e-commerce data
 Key Features:
 ==============
 
-- ##Data Preprocessing:## Cleaned and transformed raw transaction data.
-- ##Feature Engineering:## Extracted relevant features (e.g., purchase frequency, total spending).
-- ##K-Means Clustering:## Identified distinct customer segments.
-- ##Visualization:## Visualized segment characteristics using scatter plots and bar charts.
+- Data Preprocessing: Cleaned and transformed raw transaction data.
+- Feature Engineering: Extracted relevant features (e.g., purchase frequency, total spending).
+- K-Means Clustering: Identified distinct customer segments.
+- Visualization: Visualized segment characteristics using scatter plots and bar charts.
