@@ -8,4 +8,7 @@ Key Features:
 - Data Preprocessing: Cleaned and transformed raw transaction data.
 - Feature Engineering: Extracted relevant features (e.g., purchase frequency, total spending).
 - K-Means Clustering: Identified distinct customer segments.
-- Visualization: Visualized segment characteristics using scatter plots and bar charts.
+- Visualization: Visualized segment characteristics using countplot,heatmap,KElbowVisualizer and bar charts.
+
+## save the cluster in new csv file
+- save the cluster info in Cluster_data.csv
