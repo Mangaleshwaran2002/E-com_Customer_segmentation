@@ -10,5 +10,5 @@ Key Features:
 - K-Means Clustering: Identified distinct customer segments.
 - Visualization: Visualized segment characteristics using countplot,heatmap,KElbowVisualizer and bar charts.
 
-## save the cluster in new csv file
+## Save the cluster in new csv file
 - save the cluster info in Cluster_data.csv
